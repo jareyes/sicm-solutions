@@ -3,7 +3,7 @@
 ; For each of the mechanical systems described below, give the number of degrees
 ; of freedom of the configuration space.
 ;
-; a. Three jugging pins.
+; a. Three juggling pins.
 ;
 ; b. A spherical pendulum, consisting of a point mass (the pendulum bob) hanging
 ;    from a rigid massless rod attached to a fixed support point. The pendulum
